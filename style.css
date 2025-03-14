@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
-
+:root{
+    background-color: rgb(216, 252, 180);
+}
 .cabecalho{
     background-color: #e8fbbb;
     width: 100%;
@@ -14,9 +16,7 @@
     font-family:Emblema One;
     text-align: center;
 }
-.texto{
-    background-color: rgb(201, 240, 159);
-}
+
 .h2{
     font-family: Lilita One;
     font-size: 28px;
