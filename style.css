@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
 .cabecalho{
-    background-color: gainsboro;
+    background-color: #e8fbbb;
+    width: 100%;
 }
 .topicos{
-    color: black;
+    color: #7c7c7c;
     font-size: 24px;
-    font-family: Lilita One Static;
+}
+.titulo{
+    color: #000000;
+    font-size: 32px;
+    font-family:Emblema One;
 }
