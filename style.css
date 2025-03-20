@@ -29,3 +29,7 @@
     font-size: 18px;
     color: #000000;
 }
+.primeira-linha{
+    display: grid;
+    grid-column: 30%, 30%, 30%;
+}
