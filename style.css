@@ -32,6 +32,10 @@
     color: #000000;
 }
 .texto{
+@import url(https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap);
+:root{
+    background-color: rgb(222, 232,252);
+}
     font-size: 24px;
     color: #000000;
 }
